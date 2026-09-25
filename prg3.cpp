@@ -6,7 +6,7 @@ inline int addition(int a, int b)
     return a + b;
 }
 int multiple(int a, int b = 2)
-{ // default argument
+{ 
     return a * b;
 }
 int subtraction(int a, int b)
