@@ -10,7 +10,7 @@ public:
         newSalary = newSalary + newSalary * 0.10;
     }
 };
-
+// 
 int main() {
     Salary s;
     s.salary = 50000;
