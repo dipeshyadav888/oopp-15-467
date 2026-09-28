@@ -7,7 +7,8 @@ int main()
         "Mathematics",
         "Physics",
         "Chemistry",
-        "Computer Science",
+        "Computer Science", 
+        // 
         "English"
     };
 
