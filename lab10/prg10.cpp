@@ -16,7 +16,7 @@ public:
         cout << "Smart Pointer Example\n";
     }
 };
-
+// 
 int main() {
     unique_ptr<Demo> p1 = make_unique<Demo>();
     p1->display();
