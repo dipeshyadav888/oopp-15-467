@@ -10,7 +10,7 @@ public:
         marks = m;
         count++;
     }
-
+// 
     friend void show(Student s);
 
     static void displayCount() {
