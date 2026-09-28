@@ -5,7 +5,7 @@ class Time
 {
 private:
     int hh, mm, ss;
-
+// 
 public:
     void input(int h, int m, int s)
     {
