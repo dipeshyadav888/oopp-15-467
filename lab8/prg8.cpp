@@ -14,7 +14,7 @@ public:
         temp.x = x + n.x;
         return temp;
     }
-
+// 
     void display() {
         cout << x << endl;
     }
