@@ -7,7 +7,7 @@ private:
     int accountNumber;
     string accountHolder;
     double balance;
-
+// 
 public:
     BankAccount(int accNo, string name, double bal)
     {
