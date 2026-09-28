@@ -3,7 +3,7 @@ using namespace std;
 
 class Point {
     int x, y;
-
+// 
 public:
     void input() {
         cout << "Enter x: ";
