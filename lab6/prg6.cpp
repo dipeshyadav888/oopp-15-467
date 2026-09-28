@@ -5,7 +5,7 @@ class Laptop {
 private:
     string brand;
     int ram;
-
+// 
 public:
     Laptop() {
         brand = "Unknown";
