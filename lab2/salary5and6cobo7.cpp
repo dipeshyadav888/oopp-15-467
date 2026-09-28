@@ -9,7 +9,7 @@ public:
         float &newSalary = salary;
         newSalary = newSalary + newSalary * 0.10;
     }
-
+// 
     void updatePointer() {
         float *newSalary = &salary;
         *newSalary = *newSalary + (*newSalary * 0.10);
