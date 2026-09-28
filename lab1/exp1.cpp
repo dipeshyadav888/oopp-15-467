@@ -6,7 +6,7 @@ class Student
     string name, branch, section;
     int roll, marks[5], total;
     float percent;
-
+// 
 public:
     void input()
     {
